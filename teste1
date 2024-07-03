@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8"/>
+<title>Samucão</title>
+
+</head>
+
+
+<body>
+<h1>Título de nível 1</h1>
+<h2>Título de nível 2</h2>
+<h3>Título de nível 3</h3>
+<h4>Título de nível 4</h4>
+<h5>Título de nível 5</h5>
+<h6>Título de nível 6</h6>
+
+<p>Primeiro parágrafo do texto.</p>
+<p>Segundo parágrafo do texto.</p>
+<p>Terceiro parágrafo do texto.</p>
+	<p> Hello World 
+	<h1> Hello World </h1> </p>
+
+
+<!-- <a href="pagina2.html">Página 2</a> -->
+<a href="https://www.exathum.com.br/">Página 2</a>
+
+<img src="Captura de tela de 2024-06-04 00-01-53.png" alt="User Image" height="220">
+
+</body>
+
+</html>
